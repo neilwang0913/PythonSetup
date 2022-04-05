@@ -11,8 +11,15 @@
 - conda activate gprMax
 
 3. To deactivate an active environment, use
-- conda deactivate
+- conda deactivate(Linux, MacOS)
+- deactivate(Windows)
 
 4. To update conda and Python packages
 - conda update conda
 - conda env update -f conda_env.yml
+
+5. To remove conda and Python packages
+- conda remove --name fzpython2022 --all 
+
+--- Reference
+[] https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
