@@ -8,7 +8,7 @@
 - conda env create -f conda_env.yml
 
 2. To activate this environment, use
-- conda activate gprMax
+- conda activate fzpython2022
 
 3. To deactivate an active environment, use
 - conda deactivate(Linux, MacOS)
