@@ -1,7 +1,7 @@
 # This file may be used to create a conda environment using:
 # $ conda create --name gprMax --file <this file>
 
-name: gprMax
+name: fzpython2022
 dependencies:
 - python>3.6
 - colorama
@@ -13,6 +13,8 @@ dependencies:
 - pip
 - psutil
 - scipy
+- scikit-learn
+- panda
 
 - pip:
   - terminaltables
