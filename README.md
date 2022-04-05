@@ -22,4 +22,4 @@
 - conda remove --name fzpython2022 --all 
 
 --- Reference
-[] https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+[1] https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
