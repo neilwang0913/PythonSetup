@@ -12,3 +12,7 @@
 
 3. To deactivate an active environment, use
 - conda deactivate
+
+4. To update conda and Python packages
+- conda update conda
+- conda env update -f conda_env.yml
