@@ -10,7 +10,7 @@ Download the Anaconda Installer with Python 3 for Linux.
 Open a terminal window and navigate to the directory where the executable is downloaded (e.g., `cd ~/Downloads`).
 
 Type
-bash Anaconda3-
+bash Anaconda3-xxx(*Tab to autofill)
 
 and then press Tab to autocomplete the full file name. The name of file you just downloaded should appear.
 
@@ -40,5 +40,6 @@ Close the terminal window.
 5. To remove conda and Python packages
 - conda remove --name fzpython2022 --all 
 
---- Reference
+---
+Reference
 [1] https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
