@@ -4,8 +4,8 @@
 Open https://www.anaconda.com/products/individual#download-section with your web browser.
 Download the Anaconda Installer with Python 3 for Linux.
 (The installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
-Open a terminal window and navigate to the directory where the executable is downloaded (e.g., `cd ~/Downloads`).
-Type
+\ Open a terminal window and navigate to the directory where the executable is downloaded (e.g., `cd ~/Downloads`).
+\ Type
 bash Anaconda3-
 and then press Tab to autocomplete the full file name. The name of file you just downloaded should appear.
 Press Enter (or Return depending on your keyboard). You will follow the text-only prompts. To move through the text, press Spacebar. Type yes and press enter to approve the license. Press Enter (or Return) to approve the default location for the files. Type yes and press Enter (or Return) to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
