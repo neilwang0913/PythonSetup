@@ -13,7 +13,7 @@ dependencies:
 - pip
 - psutil
 - scipy
-- scikit-learn
+- scikit-learn # conda install -c conda-forge scikit-learn
 - scikit-learn-intelex
 - pandas
 
