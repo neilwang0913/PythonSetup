@@ -1,5 +1,4 @@
-# PythonSetup
-
+# PythonSetup v1
 ---
 Open https://www.anaconda.com/products/individual#download-section with your web browser.
 
