@@ -4,6 +4,7 @@
 name: fzpython2022
 dependencies:
 - python>3.6
+- git
 - colorama
 - cython
 - h5py
