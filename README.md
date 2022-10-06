@@ -1,6 +1,6 @@
 # PythonSetup v1
 ---
-Open https://www.anaconda.com/products/individual#download-section with your web browser.
+Open [https://www.anaconda.com/products/individual#download-section] with your web browser.
 
 Download the Anaconda Installer with Python 3 for Linux.
 
