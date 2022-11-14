@@ -3,20 +3,30 @@
 
 name: fzpython2022
 dependencies:
-- python>3.6
+
 - git
+
 - colorama
 - cython
+
 - h5py
+
 - jupyter
+
 - matplotlib
+
 - numpy
+
+- python>3.8
+- pandas
 - pip
 - psutil
+- pycuda
+
 - scipy
 - scikit-learn # conda install -c conda-forge scikit-learn
 - scikit-learn-intelex
-- pandas
+
 
 - pip:
   - terminaltables
