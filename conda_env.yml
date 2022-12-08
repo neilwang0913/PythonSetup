@@ -21,7 +21,7 @@ dependencies:
 - pandas
 - pip
 - psutil
-- pycuda
+
 
 - scipy
 - scikit-learn # conda install -c conda-forge scikit-learn
