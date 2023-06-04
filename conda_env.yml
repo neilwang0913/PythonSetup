@@ -11,7 +11,9 @@ dependencies:
 
 - h5py
 
-- jupyter
+# [https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html]
+- jupyterlab
+#- jupyter
 
 - matplotlib
 
@@ -22,10 +24,10 @@ dependencies:
 - pip
 - psutil
 
-
 - scipy
 - scikit-learn # conda install -c conda-forge scikit-learn
 - scikit-learn-intelex
+
 
 
 - pip:
