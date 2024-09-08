@@ -12,7 +12,7 @@ dependencies:
 - h5py
 
 # [https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html]
-- jupyterlab
+- jupyterlab #conda install -c conda-forge jupyterlab
 #- jupyter
 
 - matplotlib
