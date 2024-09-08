@@ -33,5 +33,6 @@ dependencies:
 - pip:
   - terminaltables
   - tqdm
+  - jupyter #https://stackoverflow.com/questions/74631205/jupyter-notebook-does-not-run-in-pycharm
  # - mpi4py
  # - pycuda
